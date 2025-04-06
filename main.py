@@ -1,6 +1,7 @@
 import vk_api
 from vk_api.exceptions import ApiError
-# создайте файл config в текущей директории и укажите токен сообщества
+
+# создайте файл config в текущей директории и укажите токен страницы
 # получить access token можно здесь: https://vkhost.github.io/
 from config import TOKEN
 
